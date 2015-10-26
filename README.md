@@ -2,7 +2,7 @@
 
 Contains one board, [posts](https://github.com/crypti/RedditDapp/blob/master/modules/contracts/Post.js), [comments](https://github.com/crypti/RedditDapp/blob/master/modules/contracts/Comment.js) and [likes](https://github.com/crypti/RedditDapp/blob/master/modules/contracts/Like.js) contract.
 
-Tutorial [here](https://github.com/crypti/crypti-dapps-docs/blob/master/RedditDApp.md).
+Tutorial [here](https://github.com/crypti/crypti-dapps-docs/blob/master/RedditDapp.md).
 
 ### Based on DApp Toolkit
 
